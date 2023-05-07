@@ -1,0 +1,26 @@
+Made by Dreadrith#3238
+Server: https://discord.gg/ZsPfrGn
+Github: https://github.com/Dreadrith/DreadScripts
+Gumroad: https://gumroad.com/dreadrith
+Ko-fi: https://ko-fi.com/dreadrith
+
+Version: v1.0.5
+WinterDresser is made to dress up your Avatar with Winter's clothes as easily as possible.
+
+Simple How To Use:
+------------------
+1- Drag and Drop the Clothes and Props prefabs/models onto the Root of the Avatar.
+2- Open the tool under WinterPaw > WinterDresser
+3- Set your Avatar in the Avatar field at the top.
+4- Double check that the field next to the avatar is the appropriate Body mesh. Replace it if not.
+5- (VRC) Set the "Expression Menu" field to the menu that you want to add buttons to.
+6- Press the "+" button, and Drag and Drop the new models under the root onto the new target fields.
+7- (Optional) Set whether these models are On/Off by default by clicking the Red/Green Icon. Green = On. Red = Off.
+8- Press "Merge"/"Add" at the bottom to add the target models to the Avatar.
+
+Done! You can use Lyuma's Emulator or build a test for in-game to test if everything is working appropriately.
+
+Info: 
+- Upon tool window open or Avatar field replacement. The tool will try its best to automatically detect the settings for steps 3 to 7.
+- All assets created will be generated under the "New Assets Path" path.
+

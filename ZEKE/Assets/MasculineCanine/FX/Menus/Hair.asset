@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Hair
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Mohawk
+    icon: {fileID: 2800000, guid: 9a0bb6a52597088438bb73d4689be426, type: 3}
+    type: 102
+    parameter:
+      name: hairType
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Mullet
+    icon: {fileID: 2800000, guid: ecc6de0f1be24934682f04bafdf8f8ee, type: 3}
+    type: 102
+    parameter:
+      name: hairType
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: MulletHawk
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: hairType
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: No Hair
+    icon: {fileID: 2800000, guid: 15c43155b9be7bf45bb7846159d509cf, type: 3}
+    type: 102
+    parameter:
+      name: hairType
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Longer Hair
+    icon: {fileID: 2800000, guid: 87bde888ba5115943b11c64248b8bbd4, type: 3}
+    type: 102
+    parameter:
+      name: longerhair.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shorter Hair
+    icon: {fileID: 2800000, guid: 29365a66af6ca3f438cdf8bc7d9347f8, type: 3}
+    type: 102
+    parameter:
+      name: shorterhair.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

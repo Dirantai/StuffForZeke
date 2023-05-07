@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Tail
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Alternate Tail
+    icon: {fileID: 2800000, guid: f31ed1b1d6573bb4ea1dd6f3408299f4, type: 3}
+    type: 102
+    parameter:
+      name: tail.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Thin Tail
+    icon: {fileID: 2800000, guid: 42abd53d000cd79408c97190aef553bf, type: 3}
+    type: 102
+    parameter:
+      name: thinTail.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tail Size
+    icon: {fileID: 2800000, guid: b23c81bac9a351449b3786515bb88df9, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: tailSize
+    labels: []
+  - name: Tail Curl
+    icon: {fileID: 2800000, guid: f86cf1805ab68e64bb4a04578d171e00, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: tailCurl
+    labels: []
+  - name: Tail Control
+    icon: {fileID: 2800000, guid: e005d8c0374a13c42bab799b2dac23e5, type: 3}
+    type: 201
+    parameter:
+      name: puppet.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: blendH
+    - name: blendV
+    labels:
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+  - name: Tail Wag
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0d3b9f4978d5b674bb6aebb525b0e1c7, type: 2}
+    subParameters: []
+    labels: []

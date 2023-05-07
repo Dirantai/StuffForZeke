@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Ears
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Fox
+    icon: {fileID: 2800000, guid: a59d72bf74f18654fa000e58fffd2083, type: 3}
+    type: 102
+    parameter:
+      name: earType
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Arctic Fox
+    icon: {fileID: 2800000, guid: 6c501a841e89a60418810a0a9dad39cc, type: 3}
+    type: 102
+    parameter:
+      name: earType
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Round
+    icon: {fileID: 2800000, guid: ef1957090ef69f446bad9779d641a83d, type: 3}
+    type: 102
+    parameter:
+      name: earType
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jackal
+    icon: {fileID: 2800000, guid: 1c31e0d97ed368d4ca899ded10e3f017, type: 3}
+    type: 102
+    parameter:
+      name: earType
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Floppy Left
+    icon: {fileID: 2800000, guid: 80aa602162ef62043b0118b27fd9660f, type: 3}
+    type: 102
+    parameter:
+      name: floppyL.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Floppy Right
+    icon: {fileID: 2800000, guid: 89f5a8705e928164187a305f22a939b1, type: 3}
+    type: 102
+    parameter:
+      name: floppyR.toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Ear Size
+    icon: {fileID: 2800000, guid: 10419c2c61d23524990fe3243ee9d68a, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: earSize
+    labels: []
+  - name: Ear Control
+    icon: {fileID: 0}
+    type: 201
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: earBlendH
+    - name: earBlendV
+    labels:
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}

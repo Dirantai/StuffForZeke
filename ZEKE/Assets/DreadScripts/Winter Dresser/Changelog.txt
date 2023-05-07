@@ -1,0 +1,20 @@
+(v1.0.4)
+--------
+- [Fix] (VRC) Fixed menu controls disappearing on project reload
+- [Fix] (VRC) Fixed max memory count
+
+(v1.0.3)
+--------
+- [Feature] Added Toggles will now be added into Toggle Submenus and create new ones if existing are full.
+- [Feature] Added Icon field
+- [Improvement] Improved the dropdown for the bone selection in Props.
+- [Improvement] Automatically creates Missing Expressions Menu and Parameters
+- [Improvement] Licensing updated to be compatible with Windows 11 and can cache verify!
+
+(v1.0.1)
+--------
+[Fix] Fixed issue with transitions disappearing when restarting unity or uploading
+
+(v1.0.0)
+--------
+Initial Release!

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MainMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Body Toggles
+    icon: {fileID: 2800000, guid: 51850562bf2cd96479e7d340ecb95f5c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a41cec0f6c7e0c545adc64267bbcc5ef, type: 2}
+    subParameters: []
+    labels: []
+  - name: Body Sliders
+    icon: {fileID: 2800000, guid: 3c2fb2e5bbb867549ac7150d1eb07dfb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 63940e0c9532a024db7b0f7d9af9feb0, type: 2}
+    subParameters: []
+    labels: []
+  - name: Face
+    icon: {fileID: 2800000, guid: 1ebca4936c64a3446af67429422d2868, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3524696679ebd784ab0d60336025fd75, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sitting & Laying
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d5b901ccbf69cee43a96ad17dd29facb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Tail
+    icon: {fileID: 2800000, guid: f31ed1b1d6573bb4ea1dd6f3408299f4, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4f85404e58a01f740971f3f6baaab4ea, type: 2}
+    subParameters: []
+    labels: []
+  - name: Ears
+    icon: {fileID: 2800000, guid: e5681eb779926604892c2ed9f4adca94, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0b4dff811d181664a9dfe8263d0a41f2, type: 2}
+    subParameters: []
+    labels: []
+  - name: Clothing
+    icon: {fileID: 2800000, guid: 97777d0c138124f4791934edf1f096e5, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d9c0a203bb584e54aa11ca9f384c401d, type: 2}
+    subParameters: []
+    labels: []
+  - name: Toggles 8
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 47b56c2b8e40a734a83392da18d1360f, type: 2}
+    subParameters: []
+    labels: []

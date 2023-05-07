@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Parameters
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: SittingType
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: puppet.toggle
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: blendH
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: blendV
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: cheekFloof.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+    networkSynced: 1
+  - name: tonguefront.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tongueside.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: chonkyAmt
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 1
+  - name: thicknessAmt
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 1
+  - name: eyebrows.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: neckfloof.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tailCurl
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tailSize
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 1
+  - name: earType
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: earSize
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 1
+  - name: shinyAmt
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: longerhair.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: shorterhair.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: hearteyes.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: hypnoeyes.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tail.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: whiskers.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: bodyfloof.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: floppyL.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: floppyR.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: foxfaceAmt
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: blush.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: blackpads.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: teeth.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: claws.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+    networkSynced: 1
+  - name: thinTail.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: collar.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: glasses.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: femmelashes.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: hairType
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tailwag.fast
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tailwag.slow
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: tailwag.normal
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: earBlendH
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: earBlendV
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: eyesparkles.toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Goggles
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Upper
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Lower
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
